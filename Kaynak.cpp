@@ -470,7 +470,7 @@ int game(){
     cout<<score<<"\t"<<"point"<<endl;
     if(board[28][0] == cartype){
         cout<<"You've succesfully finished the maze. Congrats!"<<endl;
-        cout<<"GUCI GANG GUCI GANG GUCI GANG GUCI GANG GUCI GANG GUCI GANG GUCI GANG!!!!"<<endl;
+        
     }
     else{
         cout<<"GAME OVER"<<endl;
